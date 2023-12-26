@@ -1,1 +1,1 @@
-"The 'ForfaiterieApp' is the culminating project of the Programmation #3 course. This is an app that displays travel packages and involves the use of the following technologies: Angular, Angular Material, and API."
+
